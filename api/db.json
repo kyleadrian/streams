@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "I created this stream",
+      "description": "This was made by me",
+      "id": 5
+    },
+    {
+      "title": "Too coarse man chill out",
+      "description": "Yeah dude wtf!!",
+      "id": 6
+    },
+    {
+      "title": "Hey Guys, check this out!!!!",
+      "description": "Streams again m888t",
+      "userId": "113604227631751920039",
+      "id": 7
+    },
+    {
+      "title": "Hi!",
+      "description": "Hey!",
+      "userId": "113604227631751920039",
+      "id": 8
+    }
+  ]
+}
